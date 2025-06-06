@@ -1,0 +1,15 @@
+name: devpipes
+channels:
+  - conda-forge
+  - esri
+  - jiayi_anaconda
+  - nvidia
+  - pytorch
+  - chicham
+  - defaults
+dependencies:
+  - pip>=21.0.1
+  - setuptools>=51.0.0
+  - openai
+
+prefix: /home/cubecloud/anaconda3/envs/devpipes
